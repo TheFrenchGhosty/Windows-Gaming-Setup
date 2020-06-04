@@ -5,7 +5,7 @@ List of software useful on a Windows machine dedicated to gaming.
 
 # Manual Installation
 
-# Frontend:
+# Frontends:
 
 Playnite ( https://playnite.link/download.html )
 
@@ -13,7 +13,7 @@ Launchbox ( https://www.launchbox-app.com/download )
 
 
 
-# Gaming Platform:
+# Gaming Platforms:
 
 (Epic Games Launcher shouldn't be used)
 
@@ -29,7 +29,7 @@ Gog Galaxy ( https://www.gog.com/galaxy )
 
 
 
-# Cheat
+# Cheating Tools:
 
 Cheat Engine ( https://www.cheatengine.org/downloads.php )
 
@@ -45,4 +45,4 @@ Chocolatey ( https://chocolatey.org/install )
 
 # Installation using Chocolatey
 
-
+SOON
