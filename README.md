@@ -1,31 +1,48 @@
 # Windows-Gaming-Setup
 
+List of software useful on a Windows machine dedicated to gaming.
 
+
+# Manual Installation
 
 # Frontend:
 
-Playnite
+Playnite ( https://playnite.link/download.html )
 
-Launchbox
+Launchbox ( https://www.launchbox-app.com/download )
 
 
 
 # Gaming Platform:
 
-Steam
+(Epic Games Launcher shouldn't be used)
 
-Origin
+Steam ( https://store.steampowered.com/about/ )
 
-Uplay
+Origin ( https://www.origin.com/store/download )
 
-Rockstar Games Launcher
+Uplay ( https://uplay.ubisoft.com/ )
 
-Gog Galaxy
+Rockstar Games Launcher ( https://socialclub.rockstargames.com/rockstar-games-launcher )
+
+Gog Galaxy ( https://www.gog.com/galaxy )
 
 
 
 # Cheat
 
-Cheat Engine
+Cheat Engine ( https://www.cheatengine.org/downloads.php )
 
-WeMod
+WeMod ( https://www.wemod.com/download )
+
+
+
+# Other
+
+Chocolatey ( https://chocolatey.org/install )
+
+
+
+# Installation using Chocolatey
+
+
